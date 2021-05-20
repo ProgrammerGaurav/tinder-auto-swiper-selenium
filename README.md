@@ -2,6 +2,8 @@
 
 ##### 1) Create a Tinder Account
 
+##### 2) Update MAX_AGE and MIN_AGE according to you
+
 ##### 2) Run tinder.py
 
 ```
